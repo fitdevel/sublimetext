@@ -1,0 +1,39 @@
+[
+	{
+		"args":
+		{
+			"by": "words",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "console.l"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "og("
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"by": "word_ends",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": ");"
+		},
+		"command": "insert"
+	}
+]
