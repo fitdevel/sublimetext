@@ -1,0 +1,8 @@
+[
+{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+{ "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
+{ "keys": ["ctrl+shift+c"], "command": "run_macro_file", "args": {"file": "Packages/User/consoleLog.sublime-macro"} },
+{ "keys": ["ctrl+shift+w"], "command": "run_macro_file", "args": {"file": "Packages/User/print_r.sublime-macro"} },
+{ "keys": ["ctrl+alt+shift+w"], "command": "run_macro_file", "args": {"file": "Packages/User/print_r-exit.sublime-macro"} },
+{ "keys": ["ctrl+alt+v"], "command": "run_macro_file", "args": {"file": "Packages/User/var_dump-exit.sublime-macro"} }
+]
