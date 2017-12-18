@@ -27,6 +27,7 @@
  * "Zurb Foundation", 
  * "Zurb Foundation 4 Snippets", 
  * "Zurb Ink Snippets"
+ * "Monokai Pro" - select "Monokai Classic Theme"
 ### Macros
  * console.log() - js
  * print_r() - php
