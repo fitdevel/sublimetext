@@ -31,3 +31,4 @@
  * console.log() - js
  * print_r() - php
  * print_r() with exit() - php
+ * var_dump() with exit() - php
