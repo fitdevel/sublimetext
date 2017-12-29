@@ -27,6 +27,8 @@
  * "Zurb Foundation", 
  * "Zurb Foundation 4 Snippets", 
  * "Zurb Ink Snippets"
+ * "Git"
+ * "GitGutter"
  * "Monokai Pro" - select "Monokai Classic Theme"
 ### Macros
  * console.log() - js
